@@ -60,6 +60,15 @@
             }
         }
     },
+    "Status": {
+        "Bluetooth": {
+            "Coordinates": {
+                "X": 0,
+                "Y": 170
+            },
+            "ImageIndexOff": 107
+        }
+    },
     "Battery": {
         "Scale": {
             "StartImageIndex": 100,
