@@ -1,6 +1,8 @@
 # BipClean
 Watchface for Amazfit Bip
 
+![Bipclean gif](https://raw.githubusercontent.com/beatles1/BipClean/master/bipclean_packed.gif)
+
 ## Use
 See this thread for how to install: https://amazfitwatchfaces.com/forum/viewtopic.php?f=6&t=11
 
