@@ -25,13 +25,13 @@
             "Tens": {
                 "X": 65,
                 "Y": 82,
-                "ImageIndex": 11,
+                "ImageIndex": 1,
                 "ImagesCount": 10
             },
             "Ones": {
                 "X": 91,
                 "Y": 82,
-                "ImageIndex": 11,
+                "ImageIndex": 1,
                 "ImagesCount": 10
             }
         }
