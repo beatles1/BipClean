@@ -3,6 +3,11 @@ Watchface for Amazfit Bip
 
 ![Bipclean gif](https://raw.githubusercontent.com/beatles1/BipClean/master/bipclean_packed.gif)
 
+* Top bar shows progress of steps goal
+* Current Temperature in °C
+* Bottom bar shows battery level
+* Shows blue behind battery if Bluetooth disconnected
+
 ## Use
 See this thread for how to install: https://amazfitwatchfaces.com/forum/viewtopic.php?f=6&t=11
 

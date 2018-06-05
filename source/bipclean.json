@@ -10,13 +10,13 @@
         "Hours": {
             "Tens": {
                 "X": 65,
-                "Y": 40,
+                "Y": 47,
                 "ImageIndex": 1,
                 "ImagesCount": 10
             },
             "Ones": {
                 "X": 91,
-                "Y": 40,
+                "Y": 47,
                 "ImageIndex": 1,
                 "ImagesCount": 10
             }
@@ -24,13 +24,13 @@
         "Minutes": {
             "Tens": {
                 "X": 65,
-                "Y": 82,
+                "Y": 92,
                 "ImageIndex": 1,
                 "ImagesCount": 10
             },
             "Ones": {
                 "X": 91,
-                "Y": 82,
+                "Y": 92,
                 "ImageIndex": 1,
                 "ImagesCount": 10
             }
@@ -39,7 +39,7 @@
     "Date": {
         "WeekDay": {
             "X": 61,
-            "Y": 153,
+            "Y": 154,
             "ImageIndex": 210,
             "ImagesCount": 7
         },
@@ -49,7 +49,7 @@
             "Separate": {
                 "Day": {
                     "TopLeftX": 80,
-                    "TopLeftY": 153,
+                    "TopLeftY": 154,
                     "BottomRightX": 115,
                     "BottomRightY": 160,
                     "Alignment": "TopRight",
@@ -104,37 +104,15 @@
             ]
         }
     },
-    "Activity": {
-        "Steps": {
-            "TopLeftX": 100,
-            "TopLeftY": 4,
-            "BottomRightX": 157,
-            "BottomRightY": 13,
-            "Alignment": "TopRight",
-            "Spacing": 2,
-            "ImageIndex": 21,
-            "ImagesCount": 10
-        },
-        "Pulse": {
-            "TopLeftX": 20,
-            "TopLeftY": 4,
-            "BottomRightX": 44,
-            "BottomRightY": 12,
-            "Alignment": "TopLeft",
-            "Spacing": 2,
-            "ImageIndex": 21,
-            "ImagesCount": 10
-        }
-    },
     "Weather": {
         "Temperature": {
             "Current": {
                 "Number": {
                     "TopLeftX": 0,
-                    "TopLeftY": 4,
+                    "TopLeftY": 10,
                     "BottomRightX": 176,
-                    "BottomRightY": 11,
-                    "Alignment": "TopCenter",
+                    "BottomRightY": 22,
+                    "Alignment": "BottomCenter",
                     "Spacing": 2,
                     "ImageIndex": 21,
                     "ImagesCount": 10
@@ -142,6 +120,41 @@
                 "MinusImageIndex": 217,
                 "DegreesImageIndex": 218
             }
+        }
+    },
+    "StepsProgress": {
+        "Linear": {
+            "StartImageIndex": 121,
+            "Segments": [
+                {
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "X": 0,
+                    "Y": 0
+                }
+            ]
         }
     }
 }
